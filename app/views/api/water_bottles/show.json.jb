@@ -1,0 +1,5 @@
+{
+  company: @water_bottle.company,
+  quality: @water_bottle.quality,
+  location: @water_bottle.location
+}

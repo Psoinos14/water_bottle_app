@@ -1,0 +1,7 @@
+@water_bottles.map do |waterbottle|
+  {
+  company: waterbottle.company,
+  quality: waterbottle.quality,
+  location: waterbottle.location
+  }
+end
